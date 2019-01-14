@@ -1,5 +1,4 @@
-{
-  "profiles": [
+[
     {   
       "id":1,
       "name":"neeraj"
@@ -12,7 +11,5 @@
       "id":3,
       "name":"akash"
     }
-
 ]
 
-}
